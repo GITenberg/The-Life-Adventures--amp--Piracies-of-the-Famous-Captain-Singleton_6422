@@ -1,0 +1,53 @@
+_repo: The-Life-Adventures--amp--Piracies-of-the-Famous-Captain-Singleton_6422
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - Moreton, Andrew
+    - Defo, Daniel
+    - John, Gabriel
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/j#a26500
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+description: "The Life, Adventures and Piracies of the Famous Captain Singleton is\
+  \ a novel by Daniel Defoe, originally published in 1720. It has been re-published\
+  \ multiple times since, some of which times were in 1840 1927, 1972 and 2008. Captain\
+  \ Singleton is believed to have been partly inspired by the exploits of the English\
+  \ pirate Henry Every, who operated in the late 17th century.\nThe narrative describes\
+  \ the life of the Englishman, Singleton, stolen from a well-to-do family as a child\
+  \ and raised by Gypsies, eventually making his way to sea. The former half of the\
+  \ book concerns Singleton's crossing of Africa, the latter half concerning his life\
+  \ as a pirate in the Indian Ocean and Arabian Sea. Defoe's description of piracy\
+  \ focuses for the most part on matters of economics and logistics, and Singleton's\
+  \ pirate behaves more like a merchant adventurer, perhaps Defoe's comment on the\
+  \ mercantilism of his day.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Pirates, Buccaneers, Corsairs, etc.
+- Crime Nonfiction
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6422'
+  wikidata: Q1728631
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Picaresque literature'
+- !lcsh 'Sea stories'
+- !lcsh 'Pirates -- Fiction'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: The Life, Adventures & Piracies of the Famous Captain Singleton
+url: http://www.gutenberg.org/ebooks/6422
+wikipedia:
+- https://fi.wikipedia.org/wiki/Kapteeni_Singleton
+- https://de.wikipedia.org/wiki/Kapit%C3%A4n_Singleton
+- https://en.wikipedia.org/wiki/Captain_Singleton
+- https://sv.wikipedia.org/wiki/Kapten_Singletons_%C3%A4ventyr
