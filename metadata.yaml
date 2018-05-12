@@ -1,5 +1,8 @@
 _repo: The-Life-Adventures--amp--Piracies-of-the-Famous-Captain-Singleton_6422
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Defoe, Daniel
@@ -25,6 +28,8 @@ description: "The Life, Adventures and Piracies of the Famous Captain Singleton 
   \ focuses for the most part on matters of economics and logistics, and Singleton's\
   \ pirate behaves more like a merchant adventurer, perhaps Defoe's comment on the\
   \ mercantilism of his day.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6422#The-Life-Adventures--amp--Piracies-of-the-Famous-Captain-Singleton
 gutenberg_bookshelf:
 - Pirates, Buccaneers, Corsairs, etc.
 - Crime Nonfiction
